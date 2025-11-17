@@ -2,6 +2,7 @@
 
 ## Jumbo
 - Pindakaas
+- kokosbrood
 - boter
 
 ## Markt
