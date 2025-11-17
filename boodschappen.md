@@ -1,7 +1,7 @@
 # Boodschappen
 
 ## Jumbo
-- hagelslag
+- aardbeienjam
 - boter
 
 ## Markt
